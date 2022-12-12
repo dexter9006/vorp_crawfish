@@ -1,7 +1,7 @@
 
 Config = {}
 
-Config.defaultlang = "en" -- Default language ("en" English, "es" Español)
+Config.defaultlang = "fr" -- Default language ("en" English, "es" Español)
 
 Config.SearchTimeMin = 5000 -- Minimum time, in milliseconds (1000 milliseconds = 1 second), taken to search a crawfish hole.
 Config.SearchTimeMax = 10000 -- Maximum time, in milliseconds (1000 milliseconds = 1 second), taken to search a crawfish hole.
